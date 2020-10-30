@@ -4,7 +4,8 @@
     http://ericbeaudry.uqam.ca/INF3105/tp2/   
 
     AUTEUR(S):
-     1) Charles-Étienne Couture COUC13049004
+     1) Charles-Étienne Couture 
+     2) Kayla Louis
 */
 #include <fstream>
 #include <iostream>
