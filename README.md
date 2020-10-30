@@ -1,1 +1,3 @@
-# epicerie
+# Épicerie
+
+Ce logiciel
